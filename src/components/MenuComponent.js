@@ -22,7 +22,7 @@ import { Card, CardImg, CardImgOverlay, CardTitle } from "reactstrap";
         });
 
         return (
-            <div classname="container">
+            <div className="container">
                 <div className="row">
                     {menu}
                 </div>
